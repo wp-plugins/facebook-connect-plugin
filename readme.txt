@@ -1,12 +1,12 @@
-﻿=== Facebook Connect Plugin ===
+﻿=== Facebook Connect ===
 
 Contributors: Paddy Miller
-Tags: facebook, connect, comments, javascript, plugin, social, share, opengraph, send comments, feed, automatic, registration, invite, friends
+Tags: facebook, connect, comments, javascript, plugin, social, share, opengraph, send comments, feed, automatic, registration, invite, friends, sidebar, widget, twitter, post, posts
 Requires at least: 3.0
 Tested up to:  3.3
 Stable tag: 1.0
 
-The complete integration of your Wordpress blog and Facebook, using the Facebook Connect Plugin.
+The complete integration of your Wordpress blog and Facebook, using our simple Facebook Connect Plugin.
 == Description ==
 
 Build a community around your blog: Facebook login, send comments to Facebook feed, automatic user registration, invite your Facebook friends and much more.
