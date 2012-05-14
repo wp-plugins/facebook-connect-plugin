@@ -4,7 +4,7 @@ Contributors: Paddy Miller
 Tags: facebook, connect, comments, javascript, plugin, social, share, opengraph, send comments, feed, automatic, registration, invite, friends, sidebar, widget, twitter, post, posts
 Requires at least: 3.0
 Tested up to:  3.3
-Stable tag: 1.1
+Stable tag: 1.2
 
 The complete integration of your Wordpress blog and Facebook, using our simple Facebook Connect Plugin.
 == Description ==
@@ -20,6 +20,9 @@ Build a community around your blog: Facebook login, send comments to Facebook fe
 * For any help please visit http://paddy.eu.com/
 
 == Changelog ==
+
+= 1.2 =
+* Necessary link removal
 
 = 1.1 =
 * First public version
