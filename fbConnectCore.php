@@ -5,7 +5,7 @@
  Description: The complete integration of your Wordpress blog and Facebook, using the Facebook Connect Plugin. Build a community around your blog: Facebook login, send comments to Facebook feed, automatic user registration, invite your Facebook friends and more.
  Author: Paddy Miller
  Author URI: http://paddy.eu.com/
- Version: 1.0
+ Version: 1.1
  License: GPL (http://www.fsf.org/licensing/licenses/info/GPLv2.html) 
  */
 

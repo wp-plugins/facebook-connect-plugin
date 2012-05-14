@@ -121,7 +121,7 @@ $hidefacepile=false;
 ?>
 	</div> 
 </div>
-<div class="fbcreditos"><?php _e('Powered by', 'fbconnect'); ?> <a href="http://www.directory2090.com">http://www.directory2009.com</a></div>
+<div class="fbcreditos"><?php _e('Powered by', 'fbconnect'); ?> <a href="http://www.directory2009.com">http://www.directory2009.com</a></div>
 </div>
 <script type="text/javascript">
 	fb_showTab('fbFirst');
